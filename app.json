@@ -1,0 +1,26 @@
+{
+  "id": "1e51c317-d09d-4bfa-8294-1507970433ea",
+  "name": "RunAllObjects_14",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "Run all objects",
+  "description": "Enables the run object functionality that was depricated in with C/Side. Run any type of objects, like tables, pages, codeunits, reports and xmlports, of course depending on permissions. Object No is page 70149. Web Client Base URL must be set on the service tier. Can be imported to the cloud version as well.",
+  "privacyStatement": "",
+  "EULA": "http://ba-condult.dk/warrenty.txt",
+  "help": "",
+  "url": "",
+  "logo": "./Images/RunLogo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://RunAllObjects_14.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}

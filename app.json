@@ -1,7 +1,7 @@
 {
   "id": "1e51c317-d09d-4bfa-8294-1507970433ea",
   "name": "RunAllObjects_14",
-  "publisher": "Default publisher",
+  "publisher": "Bech-Andersen Consult ApS",
   "version": "1.0.0.0",
   "brief": "Run all objects",
   "description": "Enables the run object functionality that was depricated in with C/Side. Run any type of objects, like tables, pages, codeunits, reports and xmlports, of course depending on permissions. Object No is page 70149. Web Client Base URL must be set on the service tier. Can be imported to the cloud version as well.",
